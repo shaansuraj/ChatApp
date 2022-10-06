@@ -1,3 +1,6 @@
+![](https://github.com/shaansuraj/ChatApp/blob/main/chatapp.jpeg)
+
+
 # ChatApp
 A real-time chatting website using HTML, CSS, JavaScript, PHP
 
